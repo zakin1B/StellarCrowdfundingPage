@@ -82,3 +82,5 @@ Goal Amount: 1000
 
 ##Scrrenshot:
 ![screenshot](contract3.png)
+<img width="1346" height="638" alt="image" src="https://github.com/user-attachments/assets/7008139e-2b91-46a0-b0b2-6754d1c60daa" />
+
