@@ -39,6 +39,10 @@ In the future, this project can be improved with:
 - Wallet connection through Freighter
 - Campaign image and category
 - Admin dashboard for campaign owners
+- 
+##Scrrenshot:
+![screenshot](contract3.png)
+<img width="1346" height="638" alt="image" src="https://github.com/user-attachments/assets/7008139e-2b91-46a0-b0b2-6754d1c60daa" />
 
 ## Key Features
 
@@ -79,8 +83,4 @@ Example campaign:
 Title: Stellar Student Fund
 Description: Support student builders on Stellar
 Goal Amount: 1000
-
-##Scrrenshot:
-![screenshot](contract3.png)
-<img width="1346" height="638" alt="image" src="https://github.com/user-attachments/assets/7008139e-2b91-46a0-b0b2-6754d1c60daa" />
 
